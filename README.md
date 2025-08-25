@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Muhammad Faizal
 **Freelancer || Editing || Web Developers from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **faisalxbaim@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Home 
 - 🌱 **I’m currently learning:** Universitas Muhammadiyah Makassar AKA Unismuh
