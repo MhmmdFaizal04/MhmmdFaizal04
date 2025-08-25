@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Muhammad Faizal
-**Freelancer || Editing || Web Developers from India**
+**Freelancer || Editing || Web Developers from Indonesia**
 
 Email Me 👉 ✉️ **faisalxbaim@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
