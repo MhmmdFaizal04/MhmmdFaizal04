@@ -1,52 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Faizal — Web Developer &amp; UI/UX Enthusiast</title>
-  <desc id="desc">Dark green editorial banner with refined typography and a minimal interface illustration.</desc>
+  <desc id="desc">Dark horror GFX banner with crimson glitch typography, scanlines and an ominous eye graphic.</desc>
   <defs>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#294039" stroke-width="1" opacity=".55"/>
-    </pattern>
-    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#1c342e"/><stop offset="1" stop-color="#14251f"/>
-    </linearGradient>
-    <clipPath id="bounds"><rect width="1200" height="330" rx="16"/></clipPath>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14131b"/><stop offset=".63" stop-color="#090a0e"/><stop offset="1" stop-color="#210d16"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#9d1026" stop-opacity=".7"/><stop offset="1" stop-color="#9d1026" stop-opacity="0"/></radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5h4" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <pattern id="grid" width="37" height="37" patternUnits="userSpaceOnUse"><path d="M37 0H0V37" fill="none" stroke="#69323e" stroke-opacity=".25"/></pattern>
+    <clipPath id="c"><rect width="1200" height="330" rx="14"/></clipPath>
   </defs>
-  <g clip-path="url(#bounds)">
-    <rect width="1200" height="330" fill="#101f1a"/>
-    <rect width="1200" height="330" fill="url(#grid)"/>
-    <path d="M0 0h9v330H0z" fill="#b9e67c"/>
-    <text x="66" y="67" fill="#b9e67c" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3">INDEPENDENT CREATIVE DEVELOPER</text>
-    <path d="M66 89h65" stroke="#b9e67c" stroke-width="2"/>
-    <text x="62" y="168" fill="#f3f5ec" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-3">Muhammad Faizal<tspan fill="#b9e67c">.</tspan></text>
-    <text x="66" y="213" fill="#c2cfc5" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing=".4">Web Developer  /  UI/UX Enthusiast</text>
-    <path d="M66 247h480" stroke="#486154"/>
-    <circle cx="73" cy="281" r="5" fill="#b9e67c"/>
-    <text x="89" y="286" fill="#aabfb0" font-family="Arial,Helvetica,sans-serif" font-size="14">Makassar, Indonesia</text>
-    <text x="389" y="286" fill="#aabfb0" font-family="Arial,Helvetica,sans-serif" font-size="14">github.com/MhmmdFaizal04</text>
-    <circle cx="987" cy="167" r="187" fill="none" stroke="#4d6b50" opacity=".48"/>
-    <circle cx="987" cy="167" r="152" fill="none" stroke="#4d6b50" opacity=".48"/>
-    <g transform="translate(750 49)">
-      <rect x="6" y="8" width="360" height="236" rx="12" fill="#0b1813" opacity=".65"/>
-      <rect width="360" height="236" rx="12" fill="url(#surface)" stroke="#526d58"/>
-      <path d="M0 38h360" stroke="#526d58"/>
-      <circle cx="22" cy="19" r="4" fill="#b9e67c"/><circle cx="39" cy="19" r="4" fill="#698574"/><circle cx="56" cy="19" r="4" fill="#698574"/>
-      <text x="237" y="23" fill="#a1b4a6" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2">DESIGN / BUILD</text>
-      <rect x="24" y="60" width="119" height="152" rx="6" fill="#283f35"/>
-      <rect x="38" y="76" width="89" height="64" rx="3" fill="#b9e67c"/>
-      <path d="M51 123l19-23 14 14 15-18 15 27" fill="none" stroke="#25402c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="108" cy="89" r="5" fill="#25402c"/>
-      <rect x="38" y="153" width="76" height="5" rx="2.5" fill="#dcebd4"/>
-      <rect x="38" y="167" width="50" height="4" rx="2" fill="#789080"/>
-      <rect x="38" y="192" width="44" height="7" rx="3.5" fill="#b9e67c"/>
-      <rect x="163" y="64" width="106" height="5" rx="2.5" fill="#b9e67c"/>
-      <rect x="163" y="82" width="160" height="8" rx="4" fill="#e9f2e2"/>
-      <rect x="163" y="99" width="128" height="8" rx="4" fill="#e9f2e2"/>
-      <rect x="163" y="122" width="167" height="4" rx="2" fill="#6d8675"/>
-      <rect x="163" y="134" width="146" height="4" rx="2" fill="#6d8675"/>
-      <rect x="163" y="146" width="154" height="4" rx="2" fill="#6d8675"/>
-      <rect x="163" y="179" width="78" height="24" rx="4" fill="#b9e67c"/>
-      <text x="177" y="195" fill="#203326" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700">EXPLORE →</text>
-      <rect x="254" y="179" width="70" height="24" rx="4" fill="none" stroke="#718a78"/>
-    </g>
-    <text x="1114" y="304" fill="#789781" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">MF / 01</text>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#grid)"/>
+    <circle cx="968" cy="158" r="265" fill="url(#glow)"/>
+    <path d="M0 0h8v330H0z" fill="#fa3751"/>
+    <path d="M29 24h125M29 24v16M1171 24h-125m125 0v16M29 306h125m-125 0v-16m1142 16h-125m125 0v-16" fill="none" stroke="#fa3751" stroke-width="2"/>
+    <text x="65" y="67" fill="#fb5366" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="4">[ 01 ]  INDEPENDENT CREATIVE DEVELOPER</text>
+    <path d="M65 82h555" stroke="#582832"/><path d="M65 82h86" stroke="#fa3751" stroke-width="2"/>
+    <text x="64" y="166" fill="#ab233d" opacity=".9" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="-3">Muhammad Faizal.</text>
+    <text x="60" y="162" fill="#f3edef" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="-3">Muhammad Faizal<tspan fill="#fa3751">.</tspan></text>
+    <path d="M60 115h274M422 174h131M86 180h360" stroke="#fa3751" opacity=".5" stroke-width="2"/>
+    <text x="65" y="213" fill="#d0bfc3" font-family="Arial,Helvetica,sans-serif" font-size="20">WEB DEVELOPER  //  UI/UX ENTHUSIAST</text>
+    <path d="M65 250h554" stroke="#64323c"/>
+    <path d="M65 269h11l5 5-5 5H65l-5-5z" fill="#fa3751"/>
+    <text x="90" y="280" fill="#a9959d" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing=".8">MAKASSAR, INDONESIA</text>
+    <text x="365" y="280" fill="#a9959d" font-family="Arial,Helvetica,sans-serif" font-size="13">github.com/MhmmdFaizal04</text>
+    <path d="M595 270h13v6h-13z" fill="#fa3751"/>
+    <circle cx="928" cy="163" r="146" fill="none" stroke="#7d2d3e" opacity=".6"/>
+    <circle cx="928" cy="163" r="116" fill="none" stroke="#7d2d3e" opacity=".7"/>
+    <circle cx="928" cy="163" r="88" fill="none" stroke="#fa3751" opacity=".65"/>
+    <path d="M738 164Q928 9 1118 164Q928 318 738 164Z" fill="#100d13" stroke="#fa3751" stroke-width="3"/>
+    <path d="M759 164Q928 40 1097 164Q928 285 759 164Z" fill="#491722"/>
+    <circle cx="928" cy="164" r="73" fill="#0b0b10" stroke="#fa3751" stroke-width="3"/>
+    <circle cx="928" cy="164" r="42" fill="#fa3751"/><circle cx="928" cy="164" r="22" fill="#09090c"/>
+    <path d="M884 117l-40-30m114 128 48 32M864 181l-64 24m185-82 60-38" stroke="#fa3751" stroke-width="3"/>
+    <path d="M815 68h65M1000 270h72M770 236h61M1060 62h83" stroke="#fa3751" stroke-width="5" opacity=".8"/>
+    <text x="1054" y="298" fill="#fb5366" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">MF // SIGNAL_01</text>
+    <rect width="1200" height="330" fill="url(#scan)" pointer-events="none"/>
   </g>
 </svg>

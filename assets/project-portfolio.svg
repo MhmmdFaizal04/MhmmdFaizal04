@@ -1,13 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="530" height="204" viewBox="0 0 530 204" role="img" aria-labelledby="t d">
-  <title id="t">Portfolio</title><desc id="d">Muhammad Faizal's personal portfolio website. Click to open source code.</desc>
-  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#263424"/><stop offset="1" stop-color="#17251d"/></linearGradient><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
+  <title id="t">Portfolio</title><desc id="d">Muhammad Faizal's personal website in a horror GFX card with a crimson monogram.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#1d151a"/><stop offset="1" stop-color="#090b0e"/></linearGradient><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5h4" stroke="#fff" stroke-opacity=".05"/></pattern><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
   <g clip-path="url(#c)">
-    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#b9e67c"/>
-    <circle cx="448" cy="98" r="93" stroke="#5d7751" fill="none"/><circle cx="448" cy="98" r="67" stroke="#5d7751" fill="none"/>
-    <text x="394" y="118" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="-6" fill="#b9e67c">mf.</text>
-    <text x="25" y="36" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#b9e67c">03 / PERSONAL SITE</text>
-    <text x="22" y="100" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f3f6ef">Portfolio</text>
-    <text x="25" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#c1d1ba">A home for my work and experiments.</text>
-    <path d="M25 154h286" stroke="#5d7751"/><text x="25" y="182" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#b9e67c">HTML  /  UI DESIGN  /  WEB</text>
+    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#fa3751"/>
+    <path d="m445 10 86 50v83l-86 50-87-50V60z" fill="#180d14" stroke="#8b3348"/>
+    <path d="m445 35 63 36v62l-63 36-64-36V71z" fill="none" stroke="#fa3751" stroke-width="2"/>
+    <text x="396" y="115" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="900" letter-spacing="-6" fill="#fa3751">mf.</text>
+    <path d="M357 0v41m90 123v40m53-174h30m-146 115h-27" stroke="#fa3751" stroke-width="3"/>
+    <text x="23" y="34" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#fa5268">ARCHIVE // 003</text>
+    <text x="21" y="102" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" fill="#f3edef">Portfolio</text>
+    <text x="24" y="131" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#cebcc1">A home for my work and experiments.</text>
+    <path d="M24 153h280" stroke="#65333e"/><text x="24" y="183" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#fa5268">HTML // UI DESIGN // WEB</text>
+    <rect width="530" height="204" fill="url(#s)" pointer-events="none"/>
   </g>
 </svg>

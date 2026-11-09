@@ -15,9 +15,9 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=MhmmdFaizal04&amp;label=PROFILE%20VIEWS&amp;color=3f7657&amp;style=flat-square" alt="Jumlah kunjungan profil" />
-  <a href="https://github.com/MhmmdFaizal04?tab=followers"><img src="https://img.shields.io/github/followers/MhmmdFaizal04?label=FOLLOWERS&amp;style=flat-square&amp;color=3f7657" alt="Jumlah pengikut GitHub" /></a>
-  <a href="https://github.com/MhmmdFaizal04?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-Explore%20Projects-3f7657?style=flat-square" alt="Jelajahi proyek open source" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MhmmdFaizal04&amp;label=PROFILE%20VIEWS&amp;color=b1374d&amp;style=flat-square" alt="Jumlah kunjungan profil" />
+  <a href="https://github.com/MhmmdFaizal04?tab=followers"><img src="https://img.shields.io/github/followers/MhmmdFaizal04?label=FOLLOWERS&amp;style=flat-square&amp;color=b1374d" alt="Jumlah pengikut GitHub" /></a>
+  <a href="https://github.com/MhmmdFaizal04?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-Explore%20Projects-b1374d?style=flat-square" alt="Jelajahi proyek open source" /></a>
 </div>
 
 <br />
@@ -58,39 +58,39 @@
 **Development**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1b3028?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1b3028?style=for-the-badge&amp;logo=css&amp;logoColor=48A6E8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-1b3028?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-1b3028?style=for-the-badge&amp;logo=typescript&amp;logoColor=58A6FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1b3028?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-1b3028?style=for-the-badge&amp;logo=python&amp;logoColor=F9D46C" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-1b141c?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1b141c?style=for-the-badge&amp;logo=css&amp;logoColor=48A6E8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1b141c?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1b141c?style=for-the-badge&amp;logo=typescript&amp;logoColor=58A6FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1b141c?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-1b141c?style=for-the-badge&amp;logo=python&amp;logoColor=F9D46C" alt="Python" />
 </p>
 
 **Design & workflow**
 
 <p>
-  <img src="https://img.shields.io/badge/UI%2FUX-1b3028?style=for-the-badge&amp;logo=figma&amp;logoColor=b9e67c" alt="UI/UX design" />
-  <img src="https://img.shields.io/badge/Figma-1b3028?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-1b3028?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1b3028?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-1b3028?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/UI%2FUX-1b141c?style=for-the-badge&amp;logo=figma&amp;logoColor=fa3751" alt="UI/UX design" />
+  <img src="https://img.shields.io/badge/Figma-1b141c?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-1b141c?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1b141c?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-1b141c?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
 </p>
 
 ## GitHub analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MhmmdFaizal04&amp;theme=github_dark" width="49%" alt="Statistik kontribusi dan aktivitas GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmmdFaizal04&amp;theme=github_dark" width="49%" alt="Diagram bahasa pemrograman berdasarkan repositori" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MhmmdFaizal04&amp;theme=radical" width="49%" alt="Statistik kontribusi dan aktivitas GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmmdFaizal04&amp;theme=radical" width="49%" alt="Diagram bahasa pemrograman berdasarkan repositori" />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=MhmmdFaizal04&amp;hide_border=false&amp;background=0D1117&amp;border=2E343B&amp;stroke=2E343B&amp;ring=B9E67C&amp;fire=B9E67C&amp;currStreakNum=F3F5EC&amp;sideNums=F3F5EC&amp;currStreakLabel=B9E67C&amp;sideLabels=AABFB0&amp;dates=AABFB0" width="70%" alt="Statistik streak kontribusi GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=MhmmdFaizal04&amp;hide_border=false&amp;background=141321&amp;border=36202D&amp;stroke=36202D&amp;ring=FA3751&amp;fire=FA3751&amp;currStreakNum=F3EDEF&amp;sideNums=F3EDEF&amp;currStreakLabel=FA3751&amp;sideLabels=CAB9C0&amp;dates=CAB9C0" width="70%" alt="Statistik streak kontribusi GitHub" />
 </div>
 
 ### Contribution graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhmmdFaizal04&amp;theme=github_dark" width="100%" alt="Grafik kontribusi GitHub selama setahun terakhir" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhmmdFaizal04&amp;theme=radical" width="100%" alt="Grafik kontribusi GitHub selama setahun terakhir" />
 </div>
 
 <br />

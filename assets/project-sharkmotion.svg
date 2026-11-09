@@ -1,13 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="530" height="204" viewBox="0 0 530 204" role="img" aria-labelledby="t d">
-  <title id="t">SharkMotion</title><desc id="d">Browser-based motion graphics and video editor. Click to open source code.</desc>
-  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#1c3033"/><stop offset="1" stop-color="#101d23"/></linearGradient><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
+  <title id="t">SharkMotion</title><desc id="d">Browser-based motion graphics editor in a horror GFX card.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#1c1620"/><stop offset="1" stop-color="#090b10"/></linearGradient><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5h4" stroke="#fff" stroke-opacity=".05"/></pattern><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
   <g clip-path="url(#c)">
-    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#94dbde"/>
-    <circle cx="449" cy="97" r="99" stroke="#39626b" fill="none"/><circle cx="449" cy="97" r="75" stroke="#39626b" fill="none"/>
-    <path d="m391 144 49-90 49 90z" fill="none" stroke="#94dbde" stroke-width="3"/><path d="m418 144 22-46 22 46z" fill="#94dbde"/>
-    <text x="25" y="36" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#94dbde">01 / CREATIVE TOOL</text>
-    <text x="22" y="100" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f3f6ef">SharkMotion</text>
-    <text x="25" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#b9cad0">Motion graphics editor in the browser.</text>
-    <path d="M25 154h286" stroke="#4d6970"/><text x="25" y="182" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#94dbde">JAVASCRIPT  /  VIDEO  /  WEB</text>
+    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#fa3751"/>
+    <path d="M387 0 270 204M419 0 302 204M451 0 334 204" stroke="#5b2533"/>
+    <circle cx="447" cy="103" r="84" stroke="#853048" fill="#120d15"/><circle cx="447" cy="103" r="60" stroke="#fa3751" fill="none"/>
+    <path d="M399 131 445 53l47 78-21-14-11 12-15-22-15 22-11-12z" fill="#fa3751"/><path d="m423 131 10-21 12 18 12-18 11 21" fill="#0b0b10"/>
+    <path d="M362 36h71m55 112h42" stroke="#fa3751" stroke-width="4"/>
+    <text x="23" y="34" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#fa5268">ARCHIVE // 001</text>
+    <text x="21" y="102" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" fill="#f3edef">SharkMotion</text>
+    <text x="24" y="131" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#cebcc1">Motion graphics editor in the browser.</text>
+    <path d="M24 153h280" stroke="#65333e"/><text x="24" y="183" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#fa5268">JAVASCRIPT // VIDEO // WEB</text>
+    <rect width="530" height="204" fill="url(#s)" pointer-events="none"/>
   </g>
 </svg>
