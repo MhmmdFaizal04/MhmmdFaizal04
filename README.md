@@ -1,70 +1,53 @@
 <div align="center">
+  <img src="assets/header.svg" alt="Muhammad Faizal — Web Developer & UI/UX Enthusiast, Makassar, Indonesia" width="100%" />
 
-# Halo, saya Muhammad Faizal 👋
+  <br />
 
-### Web developer · Kreator digital · Freelancer
+  <strong>Building thoughtful digital experiences, from idea to interface.</strong>
+  <br />
+  <sub>Web development · Interface design · Creative technology</sub>
 
-<p>
-  Saya senang membangun sesuatu di web, mengeksplorasi teknologi baru,<br />
-  dan mengubah ide menjadi pengalaman digital yang berguna.
-</p>
+  <br /><br />
 
-<a href="https://github.com/MhmmdFaizal04?tab=repositories"><img src="https://img.shields.io/badge/Lihat_Proyek-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lihat proyek saya di GitHub" /></a>
-<a href="mailto:faisalxbaim@gmail.com"><img src="https://img.shields.io/badge/Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Hubungi saya melalui email" /></a>
-
+  <a href="https://porto-zal.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MhmmdFaizal04?tab=repositories">Projects</a> &nbsp;·&nbsp;
+  <a href="mailto:faisalxbaim@gmail.com">Contact</a>
 </div>
 
----
+<br />
 
-### ✦ Sedikit tentang saya
+## About me
 
-```text
-📍  Makassar, Indonesia
-💻  Web development & proyek digital
-🎨  Editing, desain, dan konten kreatif
-🤝  Terbuka untuk kolaborasi dan ide baru
-```
+Saya **Muhammad Faizal**, freelancer dan web developer dari Makassar, Indonesia. Saya tertarik pada cara **desain UI/UX dan teknologi** bekerja bersama untuk membuat produk digital yang jelas, nyaman digunakan, dan punya karakter.
 
-Saya seorang freelancer yang tertarik pada persimpangan **teknologi dan kreativitas**. Di sini saya membagikan proyek, eksperimen, dan hal-hal yang sedang saya pelajari. Bagi saya, proyek yang bagus dimulai dari rasa ingin tahu, lalu tumbuh lewat proses mencoba dan memperbaiki.
+Saya mengerjakan proyek web, mengeksplorasi desain antarmuka, dan membagikan eksperimen saya secara terbuka di GitHub. Latar belakang saya di editing dan konten kreatif ikut membentuk cara saya melihat detail visual serta pengalaman pengguna.
 
-### 🛠️ Teknologi & tools
+## What I do
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+| Fokus | Pendekatan |
+| :--- | :--- |
+| **Web development** | Membangun pengalaman web yang responsif dan mudah digunakan. |
+| **UI/UX design** | Memikirkan struktur, keterbacaan, alur, dan detail antarmuka. |
+| **Creative work** | Menggabungkan desain, editing, dan teknologi menjadi karya digital. |
 
-### 🚀 Apa yang bisa kamu temukan di sini?
+## Selected work
 
-| Ruang eksplorasi | Yang saya kerjakan |
-| :-- | :-- |
-| **Web** | Membangun antarmuka dan mencoba ide-ide baru untuk web. |
-| **Kode** | Menyimpan eksperimen dan membagikan proyek di repositori publik. |
-| **Kreatif** | Menggabungkan desain, editing, dan teknologi dalam karya digital. |
+| Project | Overview | Links |
+| :--- | :--- | :--- |
+| **SharkMotion** | Eksplorasi editor motion graphics dan video berbasis browser. | [Code](https://github.com/MhmmdFaizal04/SharkMotion) · [Live](https://shark-motion-studio.vercel.app) |
+| **Usman-bot** | Proyek web berbasis TypeScript. | [Code](https://github.com/MhmmdFaizal04/Usman-bot) · [Live](https://usman-bot.vercel.app) |
+| **Portfolio** | Situs personal untuk memperkenalkan karya dan pengalaman saya. | [Code](https://github.com/MhmmdFaizal04/Portofolio-Mhmmd-Faizal) · [Live](https://porto-zal.vercel.app) |
 
-> Penasaran dengan proyek saya? [Jelajahi semua repositori →](https://github.com/MhmmdFaizal04?tab=repositories)
+<sub>Lebih banyak eksperimen dan proyek tersedia di <a href="https://github.com/MhmmdFaizal04?tab=repositories">semua repositori saya →</a></sub>
 
-### 📫 Mari terhubung
+## Toolkit
 
-<p>
-  <a href="mailto:faisalxbaim@gmail.com"><img src="https://img.shields.io/badge/Email-faisalxbaim%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: faisalxbaim@gmail.com" /></a>
-  <a href="https://www.instagram.com/zallvisual/"><img src="https://img.shields.io/badge/Instagram-@zallvisual-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @zallvisual" /></a>
-  <a href="https://www.youtube.com/@ZallXDYT"><img src="https://img.shields.io/badge/YouTube-@ZallXDYT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: @ZallXDYT" /></a>
-</p>
+**Development** &nbsp; HTML · CSS · JavaScript · TypeScript · React · Python
 
----
+**Design & workflow** &nbsp; Figma · Git · GitHub · Vercel
 
-<div align="center">
+## Let's connect
 
-**Terima kasih sudah mampir!** ✨
+Terbuka untuk diskusi tentang proyek web, desain antarmuka, dan kolaborasi kreatif.
 
-<sub>Terus belajar · Terus berkarya · Terus berbagi</sub>
-
-</div>
+**[Email](mailto:faisalxbaim@gmail.com)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/zallvisual/)** &nbsp;·&nbsp; **[YouTube](https://www.youtube.com/@ZallXDYT)** &nbsp;·&nbsp; **[GitHub](https://github.com/MhmmdFaizal04)**

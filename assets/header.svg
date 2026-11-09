@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Faizal — Web Developer &amp; UI/UX Enthusiast</title>
+  <desc id="desc">Dark green editorial banner with refined typography and a minimal interface illustration.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#294039" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#1c342e"/><stop offset="1" stop-color="#14251f"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="330" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="330" fill="#101f1a"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <path d="M0 0h9v330H0z" fill="#b9e67c"/>
+    <text x="66" y="67" fill="#b9e67c" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3">INDEPENDENT CREATIVE DEVELOPER</text>
+    <path d="M66 89h65" stroke="#b9e67c" stroke-width="2"/>
+    <text x="62" y="168" fill="#f3f5ec" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-3">Muhammad Faizal<tspan fill="#b9e67c">.</tspan></text>
+    <text x="66" y="213" fill="#c2cfc5" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing=".4">Web Developer  /  UI/UX Enthusiast</text>
+    <path d="M66 247h480" stroke="#486154"/>
+    <circle cx="73" cy="281" r="5" fill="#b9e67c"/>
+    <text x="89" y="286" fill="#aabfb0" font-family="Arial,Helvetica,sans-serif" font-size="14">Makassar, Indonesia</text>
+    <text x="389" y="286" fill="#aabfb0" font-family="Arial,Helvetica,sans-serif" font-size="14">github.com/MhmmdFaizal04</text>
+    <circle cx="987" cy="167" r="187" fill="none" stroke="#4d6b50" opacity=".48"/>
+    <circle cx="987" cy="167" r="152" fill="none" stroke="#4d6b50" opacity=".48"/>
+    <g transform="translate(750 49)">
+      <rect x="6" y="8" width="360" height="236" rx="12" fill="#0b1813" opacity=".65"/>
+      <rect width="360" height="236" rx="12" fill="url(#surface)" stroke="#526d58"/>
+      <path d="M0 38h360" stroke="#526d58"/>
+      <circle cx="22" cy="19" r="4" fill="#b9e67c"/><circle cx="39" cy="19" r="4" fill="#698574"/><circle cx="56" cy="19" r="4" fill="#698574"/>
+      <text x="237" y="23" fill="#a1b4a6" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2">DESIGN / BUILD</text>
+      <rect x="24" y="60" width="119" height="152" rx="6" fill="#283f35"/>
+      <rect x="38" y="76" width="89" height="64" rx="3" fill="#b9e67c"/>
+      <path d="M51 123l19-23 14 14 15-18 15 27" fill="none" stroke="#25402c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="108" cy="89" r="5" fill="#25402c"/>
+      <rect x="38" y="153" width="76" height="5" rx="2.5" fill="#dcebd4"/>
+      <rect x="38" y="167" width="50" height="4" rx="2" fill="#789080"/>
+      <rect x="38" y="192" width="44" height="7" rx="3.5" fill="#b9e67c"/>
+      <rect x="163" y="64" width="106" height="5" rx="2.5" fill="#b9e67c"/>
+      <rect x="163" y="82" width="160" height="8" rx="4" fill="#e9f2e2"/>
+      <rect x="163" y="99" width="128" height="8" rx="4" fill="#e9f2e2"/>
+      <rect x="163" y="122" width="167" height="4" rx="2" fill="#6d8675"/>
+      <rect x="163" y="134" width="146" height="4" rx="2" fill="#6d8675"/>
+      <rect x="163" y="146" width="154" height="4" rx="2" fill="#6d8675"/>
+      <rect x="163" y="179" width="78" height="24" rx="4" fill="#b9e67c"/>
+      <text x="177" y="195" fill="#203326" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700">EXPLORE →</text>
+      <rect x="254" y="179" width="70" height="24" rx="4" fill="none" stroke="#718a78"/>
+    </g>
+    <text x="1114" y="304" fill="#789781" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">MF / 01</text>
+  </g>
+</svg>
