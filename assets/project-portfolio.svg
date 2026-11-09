@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="204" viewBox="0 0 530 204" role="img" aria-labelledby="t d">
+  <title id="t">Portfolio</title><desc id="d">Muhammad Faizal's personal portfolio website. Click to open source code.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#263424"/><stop offset="1" stop-color="#17251d"/></linearGradient><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#b9e67c"/>
+    <circle cx="448" cy="98" r="93" stroke="#5d7751" fill="none"/><circle cx="448" cy="98" r="67" stroke="#5d7751" fill="none"/>
+    <text x="394" y="118" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="-6" fill="#b9e67c">mf.</text>
+    <text x="25" y="36" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#b9e67c">03 / PERSONAL SITE</text>
+    <text x="22" y="100" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f3f6ef">Portfolio</text>
+    <text x="25" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#c1d1ba">A home for my work and experiments.</text>
+    <path d="M25 154h286" stroke="#5d7751"/><text x="25" y="182" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#b9e67c">HTML  /  UI DESIGN  /  WEB</text>
+  </g>
+</svg>

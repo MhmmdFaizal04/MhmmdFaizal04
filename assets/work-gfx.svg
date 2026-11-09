@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="136" viewBox="0 0 1100 136" role="img" aria-labelledby="t">
+  <title id="t">Selected work — projects and experiments</title>
+  <defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#355443" opacity=".65"/></pattern><clipPath id="c"><rect width="1100" height="136" rx="12"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1100" height="136" fill="#13261d"/><rect width="1100" height="136" fill="url(#g)"/>
+    <path d="M0 0h8v136H0z" fill="#b9e67c"/>
+    <text x="36" y="33" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3" font-weight="700" fill="#b9e67c">02 / FEATURED PROJECTS</text>
+    <text x="35" y="93" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700" letter-spacing="-2" fill="#f4f6ee">Selected <tspan fill="#b9e67c">work.</tspan></text>
+    <text x="790" y="78" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#bfd1c0">A collection of ideas made real.</text>
+    <path d="M1016 66h47m-17-17 17 17-17 17" fill="none" stroke="#b9e67c" stroke-width="3"/>
+  </g>
+</svg>

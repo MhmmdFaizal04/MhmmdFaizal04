@@ -22,29 +22,36 @@
 
 <br />
 
-## About me
+<img src="assets/about-gfx.svg" width="100%" alt="About me — Code, design, and everything in between. Muhammad Faizal, web developer dan kreator digital dari Makassar." />
 
-Saya **Muhammad Faizal**, freelancer dan web developer dari Makassar, Indonesia. Saya tertarik pada cara **desain UI/UX dan teknologi** bekerja bersama untuk membuat produk digital yang jelas, nyaman digunakan, dan punya karakter.
+<p>Saya membangun pengalaman web dengan perhatian pada <strong>fungsi, tampilan, dan pengalaman pengguna.</strong> Sebagai freelancer dari Makassar, saya menggabungkan pengembangan web, eksplorasi UI/UX, dan latar belakang kreatif dalam proyek yang saya kerjakan.</p>
 
-Saya mengerjakan proyek web, mengeksplorasi desain antarmuka, dan membagikan eksperimen saya secara terbuka di GitHub. Latar belakang saya di editing dan konten kreatif ikut membentuk cara saya melihat detail visual serta pengalaman pengguna.
+### 01 / What I do
 
-## What I do
+> **DEVELOP** &nbsp; — &nbsp; Web yang responsif dan mudah digunakan.  
+> **DESIGN** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp; Struktur, alur, dan detail UI/UX yang terasa tepat.  
+> **CREATE** &nbsp;&nbsp; — &nbsp; Eksperimen visual, editing, dan karya digital.
 
-| Fokus | Pendekatan |
-| :--- | :--- |
-| **Web development** | Membangun pengalaman web yang responsif dan mudah digunakan. |
-| **UI/UX design** | Memikirkan struktur, keterbacaan, alur, dan detail antarmuka. |
-| **Creative work** | Menggabungkan desain, editing, dan teknologi menjadi karya digital. |
+<br />
 
-## Selected work
+<img src="assets/work-gfx.svg" width="100%" alt="Selected work — a selection of projects and experiments" />
 
-| Project | Overview | Links |
-| :--- | :--- | :--- |
-| **SharkMotion** | Eksplorasi editor motion graphics dan video berbasis browser. | [Code](https://github.com/MhmmdFaizal04/SharkMotion) · [Live](https://shark-motion-studio.vercel.app) |
-| **Usman-bot** | Proyek web berbasis TypeScript. | [Code](https://github.com/MhmmdFaizal04/Usman-bot) · [Live](https://usman-bot.vercel.app) |
-| **Portfolio** | Situs personal untuk memperkenalkan karya dan pengalaman saya. | [Code](https://github.com/MhmmdFaizal04/Portofolio-Mhmmd-Faizal) · [Live](https://porto-zal.vercel.app) |
+<br />
 
-<sub>Lebih banyak eksperimen dan proyek tersedia di <a href="https://github.com/MhmmdFaizal04?tab=repositories">semua repositori saya →</a></sub>
+<div align="center">
+  <a href="https://github.com/MhmmdFaizal04/SharkMotion"><img src="assets/project-sharkmotion.svg" width="49%" alt="SharkMotion — editor motion graphics dan video berbasis browser. Buka repositori." /></a>
+  <a href="https://github.com/MhmmdFaizal04/Usman-bot"><img src="assets/project-usman.svg" width="49%" alt="Usman-bot — proyek web berbasis TypeScript. Buka repositori." /></a>
+  <a href="https://github.com/MhmmdFaizal04/Portofolio-Mhmmd-Faizal"><img src="assets/project-portfolio.svg" width="49%" alt="Portfolio — situs personal Muhammad Faizal. Buka repositori." /></a>
+</div>
+
+<div align="center">
+  <a href="https://shark-motion-studio.vercel.app">SharkMotion ↗</a> &nbsp;·&nbsp;
+  <a href="https://usman-bot.vercel.app">Usman-bot ↗</a> &nbsp;·&nbsp;
+  <a href="https://porto-zal.vercel.app">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MhmmdFaizal04?tab=repositories">All repositories ↗</a>
+</div>
+
+<br />
 
 ## Toolkit
 

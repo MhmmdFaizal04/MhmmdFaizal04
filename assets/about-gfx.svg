@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="t d">
+  <title id="t">About me — Code, design, and everything in between</title>
+  <desc id="d">Graphic editorial panel introducing Muhammad Faizal, web developer from Makassar.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12291e"/><stop offset="1" stop-color="#101a1c"/></linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#709a72" opacity=".37"/></pattern>
+    <clipPath id="clip"><rect width="1100" height="250" rx="13"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1100" height="250" fill="url(#bg)"/>
+    <rect x="660" width="440" height="250" fill="url(#dots)"/>
+    <path d="M0 0h8v250H0z" fill="#b9e67c"/>
+    <path d="M42 45h580M42 206h580" stroke="#56705e" opacity=".7"/>
+    <text x="42" y="33" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#b9e67c">01 / THE PERSON BEHIND THE PROJECTS</text>
+    <text x="42" y="111" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-3" fill="#f3f5ec">More than <tspan fill="#b9e67c">code.</tspan></text>
+    <text x="45" y="157" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c2d1c4">I build, design, and keep exploring.</text>
+    <text x="44" y="230" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.4" fill="#a8bdae">WEB DEVELOPER  /  CREATIVE MAKER  /  MAKASSAR, ID</text>
+    <circle cx="887" cy="124" r="102" stroke="#4a6851" fill="none"/>
+    <circle cx="887" cy="124" r="77" stroke="#b9e67c" fill="none" opacity=".85"/>
+    <circle cx="887" cy="124" r="53" fill="#b9e67c"/>
+    <text x="842" y="145" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-7" fill="#15271c">MF.</text>
+    <path d="M726 124h43m236 0h43M887 0v23m0 202v25" stroke="#b9e67c" stroke-width="2"/>
+    <text x="1035" y="221" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#b9e67c" transform="rotate(-90 1035 221)">DESIGN / DEVELOP / DELIVER</text>
+  </g>
+</svg>

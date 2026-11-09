@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="204" viewBox="0 0 530 204" role="img" aria-labelledby="t d">
+  <title id="t">SharkMotion</title><desc id="d">Browser-based motion graphics and video editor. Click to open source code.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#1c3033"/><stop offset="1" stop-color="#101d23"/></linearGradient><clipPath id="c"><rect width="530" height="204" rx="10"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="530" height="204" fill="url(#b)"/><path d="M0 0h5v204H0z" fill="#94dbde"/>
+    <circle cx="449" cy="97" r="99" stroke="#39626b" fill="none"/><circle cx="449" cy="97" r="75" stroke="#39626b" fill="none"/>
+    <path d="m391 144 49-90 49 90z" fill="none" stroke="#94dbde" stroke-width="3"/><path d="m418 144 22-46 22 46z" fill="#94dbde"/>
+    <text x="25" y="36" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#94dbde">01 / CREATIVE TOOL</text>
+    <text x="22" y="100" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f3f6ef">SharkMotion</text>
+    <text x="25" y="131" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#b9cad0">Motion graphics editor in the browser.</text>
+    <path d="M25 154h286" stroke="#4d6970"/><text x="25" y="182" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#94dbde">JAVASCRIPT  /  VIDEO  /  WEB</text>
+  </g>
+</svg>
